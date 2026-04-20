@@ -6,3 +6,4 @@ I want to learn by watching videos of:
 1. Anomaly Detection
 2. Forecasting
 3. Image Processing
+4. LSTM
